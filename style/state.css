@@ -1,0 +1,17 @@
+body
+{
+font-family: 'Lato', 'Lato Latin', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+font-weight: 300;
+font-size: 14px;
+
+
+}
+#state
+{
+	background-color: #99CC00;
+}
+a
+{
+	
+	text-decoration:none;
+}
